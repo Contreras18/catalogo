@@ -9,11 +9,19 @@
  "categories": [
   {
    "id": "materiales-electricos",
-   "products": [],
-   "subs": [],
    "name": "Materiales Electricos",
    "subtitle": "",
-   "icon": "⚡"
+   "icon": "⚡",
+   "products": [],
+   "subs": [
+    {
+     "id": "liminaria",
+     "products": [],
+     "name": "liminaria",
+     "subtitle": "",
+     "icon": "💡"
+    }
+   ]
   }
  ]
 }
