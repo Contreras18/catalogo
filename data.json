@@ -16,7 +16,16 @@
    "subs": [
     {
      "id": "liminaria",
-     "products": [],
+     "products": [
+      {
+       "id": "p2f7qzqq",
+       "name": "lampara led framele 18w",
+       "price": 9000,
+       "desc": "",
+       "image": "",
+       "soldOut": false
+      }
+     ],
      "name": "liminaria",
      "subtitle": "",
      "icon": "💡"
